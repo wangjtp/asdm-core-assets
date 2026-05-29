@@ -14,6 +14,9 @@
 
 
 
+
+
+
 ## Overview
 
 ASDM Core Assets is a repository containing essential resources for the [ASDM](https://asdm.ai) (AI-First System Development Methodology) system. It includes toolsets, specifications, and contexts that are used to manage and enhance software development processes.
